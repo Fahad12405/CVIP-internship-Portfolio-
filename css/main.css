@@ -1165,7 +1165,8 @@ header .logo a {
 	transform: translateY(-2.1rem);
 }
 .intro-content h1 {
-    color: white;
+    color: white!important;
+
     font-family: cursive;
     font-size: 25rem;
     line-height: 1.071;
